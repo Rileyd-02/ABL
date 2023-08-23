@@ -5,7 +5,6 @@
 
 
 
-    return max_length
 
 arr1 = [0, 1, 0, 1, 1, 0, 0]
 result1 = longest_equal_subarray(arr1)
