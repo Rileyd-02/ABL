@@ -9,4 +9,5 @@ if current_diff in cumulative_diff:
     max_length = max(max_length, subarray_length)
 else:
     cumulative_diff[current_diff] = i
+    return max_length
 
