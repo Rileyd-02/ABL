@@ -21,10 +21,6 @@ arr1 = [0, 1, 0, 1, 1, 0, 0]
 result1 = longest_equal_subarray(arr1)
 print(result1)  
 
-arr2 = [1, 0, 1, 1, 1, 0]
-result2 = longest_equal_subarray(arr2)
-print(result2)  
-
 arr3 = [0, 1, 0, 1, 1, 0, 1, 0, 0, 1]
 result3 = longest_equal_subarray(arr3)
 print(result3)  
